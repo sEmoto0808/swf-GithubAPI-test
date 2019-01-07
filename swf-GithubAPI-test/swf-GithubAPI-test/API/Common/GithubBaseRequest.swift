@@ -20,7 +20,7 @@ extension GithubBaseRequest {
     
     var headerFields: [String: String] {
         
-        return ["Authorization":"token a292a25b029c2eb43b6f0d9d0c920746d55cef73"]
+        return ["Authorization":"token 78ff2bb908d0f97d3b13f0f2ae66371f8c05aca0"]
     }
 }
 
