@@ -1,2 +1,31 @@
 # swf-GithubAPI-test
-GithubAPI test
+GithubAPI test  
+
+## フォルダ構成
+### API
+- Common  
+- Error  
+- Entity  
+- Response  
+- Request  
+### Model
+- TableViewのDataSource  
+- API通信  
+### ViewModel
+- ViewのインプットからAPI通信のアウトプットを生成  
+### View
+- ViewContorller
+- CustomView
+  - カスタムUITableViewCell  
+### Storyboard
+- ユーザ検索画面  
+- ユーザリポジトリ画面  
+- リポジトリ画面(WebView)  
+### Xib
+- カスタムUITableViewCell  
+### Extension
+- UIKitのExtension  
+### Common
+- AppDetegate, Info.plist  
+### Resource
+- Asset  
