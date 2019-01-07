@@ -1,0 +1,4 @@
+github "ishkawa/APIKit"
+github "ReactiveX/RxSwift"
+github "SVProgressHUD/SVProgressHUD"
+github "onevcat/Kingfisher"
